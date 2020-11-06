@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131591268356",
+    "firebase_url": "https://finalpro-683ac.firebaseio.com",
+    "project_id": "finalpro-683ac",
+    "storage_bucket": "finalpro-683ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131591268356:android:86260c4cbc82573c19ed51",
+        "android_client_info": {
+          "package_name": "com.example.finalpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131591268356-g7ae9eojlv6o4iikaupk5ldnd155ck40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkq8U54lt9yJ8Wfl5enpF6ddBCI9cfths"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131591268356-g7ae9eojlv6o4iikaupk5ldnd155ck40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
